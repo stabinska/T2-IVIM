@@ -12,5 +12,7 @@ The Phantom_Script_BiExp_Relax.m script can be used to create the distribution f
 
 The InVivo_Script_BiExp_Relax_Manuscript.m example script describes how to run the analysis for in vivo data. Unfortunately, no example data could be provided due to privacy issues.
 
+All scripts were tested on MATLAB R2023a.
+
 If you make any use of the materials provided in this repository, please cite the above-mentioned manuscript.
 
